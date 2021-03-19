@@ -5,6 +5,10 @@
 do curso de Especialização em Desenvolvimento Web Full Stack
 </p>
 
-# Instalação
+## Instalação
 
 `$ npm install`
+
+## Bibliotecas
+
+[Bootstrap 5](https://getbootstrap.com/docs/5.0/examples/ "Bootstrap 5")
